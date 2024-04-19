@@ -4,10 +4,10 @@ Benjamin
 
 ## Vendredi 19/04/2024
 
-### CSS 
+### CSS
 
-- [ ] Comprendre le fonctionnement et les différentes notation des couleurs en CSS
-- [ ] Comprendre les différentes notations pour le sizing en CSS (%, px, em, rem)
+- [x] Comprendre le fonctionnement et les différentes notation des couleurs en CSS
+- [x] Comprendre les différentes notations pour le sizing en CSS (%, px, em, rem)
 - [ ] Savoir appliquer des bordures, ombres et backgrounds
 - [ ] Savoir styliser son texte (color, text-align, text-decoration, text-transform, text-indent, etc …)
 - [ ] Faire le parcours [CSS Diner](https://flukeout.github.io/)
@@ -21,5 +21,3 @@ Benjamin
     - [ ] Comprendre l'utilité du responsive design
     - [ ] Comprendre le fonctionnement des medias queries
     - [ ] Comprendre la notion de mobile first
-
-
